@@ -1,0 +1,56 @@
+body{
+    width: 1200px;
+}
+#d_left{float:left; width:600px;height:500px;}
+#d_right{float:right; width:600px;height:500px;}
+#main_title
+{
+    color: rgb(224, 226, 79);
+    background: rgb(87, 88, 87);
+    font-size: 500%;
+    font-family: fantasy;
+    text-align:center;
+}
+
+#sub_title{
+    box-align:center;
+    background-color:aqua;
+    width: 500px;
+    height: 300px;
+    border: 3px solid rgb(32, 74, 209);
+    padding: 3px;
+    border-spacing: 5px;
+}
+
+#basic_text{
+    font-size:200%;
+    font-family: monospace;
+}
+
+#basic_text2{
+    font-size: 145%;
+    font-family: monospace;
+}
+
+#cap01_style_01{
+    width: 500px;
+    border: 2px solid black;
+    padding: 2px;
+    border-spacing: 4px;
+}
+#cap01_style_02{
+    background-color:gray;
+    width:100%;
+    border: 2px solid black;
+    padding: 2px;
+    border-spacing: 4px;
+}
+
+#cap02_style_01{
+    float:left;
+    background-color: rgb(105, 120, 170);
+    width: 700px;
+    border: 2px solid black;
+    padding: 10px;
+    border-spacing: 10px;
+}
